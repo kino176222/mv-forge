@@ -1,0 +1,81 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.next-dist/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+.env.local
+
+# project media (mp4/曲/画像はコミットしない。設計図project.jsonは残す)
+projects/*/exports/
+projects/*/*.mp3
+projects/*/*.wav
+projects/*/*.m4a
+projects/*/images/
+projects/*/beats.json
+projects/*/videos/
+projects/*/rejected/
+projects/*/project.json.bak
+projects/*/jobs.json
+# 途中セーブ（スナップショット）の履歴DB。project.json専用の別git-dir。本体リポとは独立。
+projects/*/.snapshots.git/
+.fx-verify/
+.fx-score/
+
+# FCPオーバーレイ検証の中間PNG（コミット不要）
+.overlay-verify/
+
+# ローカル調査用データ（配布・コミットしない）
+study/
+
+.rebuild-review/
+style-packs.user.json
+themes.user.json
+credit-presets.user.json
+
+# エフェクト目視レビュー台帳（ローカル作業用）
+fx-review.json
+
+# 図鑑サムネ（ローカル生成・iCloud/gitに載せない）
+
+# brushup回帰ベースライン（ローカル生成PNG。scripts/brushup-text-params.test.mts）
+.brushup-baseline/
+
+# 配布検証の比較PNG（ローカルのみ）
+.pilot-compare/

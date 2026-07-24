@@ -1,0 +1,1578 @@
+{
+  "fx-blur": {
+    "comp": "FxBlur",
+    "kind": "overlay"
+  },
+  "fx-bouncing-stroke": {
+    "comp": "FxBouncingStroke",
+    "kind": "generator"
+  },
+  "fx-burn-effect": {
+    "comp": "FxBurnEffect",
+    "kind": "overlay"
+  },
+  "fx-camera": {
+    "comp": "FxCamera",
+    "kind": "overlay"
+  },
+  "fx-color-filter": {
+    "comp": "FxColorFilter",
+    "kind": "overlay"
+  },
+  "fx-dirts-and-scratches": {
+    "comp": "FxDirtsAndScratches",
+    "kind": "overlay"
+  },
+  "fx-distorted-shake": {
+    "comp": "FxDistortedShake",
+    "kind": "overlay"
+  },
+  "fx-distortion-01": {
+    "comp": "FxDistortion01",
+    "kind": "overlay"
+  },
+  "fx-distortion-02": {
+    "comp": "FxDistortion02",
+    "kind": "overlay"
+  },
+  "fx-distortion-03": {
+    "comp": "FxDistortion03",
+    "kind": "overlay"
+  },
+  "fx-distortion-04": {
+    "comp": "FxDistortion04",
+    "kind": "overlay"
+  },
+  "fx-distortion-05": {
+    "comp": "FxDistortion05",
+    "kind": "overlay"
+  },
+  "fx-distortion-06": {
+    "comp": "FxDistortion06",
+    "kind": "overlay"
+  },
+  "fx-distortion-07": {
+    "comp": "FxDistortion07",
+    "kind": "overlay"
+  },
+  "fx-distortion-08": {
+    "comp": "FxDistortion08",
+    "kind": "overlay"
+  },
+  "fx-distortion-09": {
+    "comp": "FxDistortion09",
+    "kind": "overlay"
+  },
+  "fx-dizzy": {
+    "comp": "FxDizzy",
+    "kind": "overlay"
+  },
+  "fx-dream-blur": {
+    "comp": "FxDreamBlur",
+    "kind": "overlay"
+  },
+  "fx-dreamy-look": {
+    "comp": "FxDreamyLook",
+    "kind": "overlay"
+  },
+  "fx-drop-zones-echo": {
+    "comp": "FxDropZonesEcho",
+    "kind": "overlay"
+  },
+  "fx-edge-gleam": {
+    "comp": "FxEdgeGleam",
+    "kind": "overlay"
+  },
+  "fx-fake-robot-arm": {
+    "comp": "FxFakeRobotArm",
+    "kind": "overlay"
+  },
+  "fx-fast-rotation": {
+    "comp": "FxFastRotation",
+    "kind": "overlay"
+  },
+  "fx-feel-the-beat-module": {
+    "comp": "FxFeelTheBeatModule",
+    "kind": "overlay"
+  },
+  "fx-film-emulation": {
+    "comp": "FxFilmEmulation",
+    "kind": "overlay"
+  },
+  "fx-film-grunge": {
+    "comp": "FxFilmGrunge",
+    "kind": "overlay"
+  },
+  "fx-film-matte-01": {
+    "comp": "FxFilmMatte01",
+    "kind": "overlay"
+  },
+  "fx-film-matte-02": {
+    "comp": "FxFilmMatte02",
+    "kind": "overlay"
+  },
+  "fx-film-matte-03": {
+    "comp": "FxFilmMatte03",
+    "kind": "overlay"
+  },
+  "fx-film-matte-04": {
+    "comp": "FxFilmMatte04",
+    "kind": "overlay"
+  },
+  "fx-film-matte-05": {
+    "comp": "FxFilmMatte05",
+    "kind": "overlay"
+  },
+  "fx-film-matte-06": {
+    "comp": "FxFilmMatte06",
+    "kind": "overlay"
+  },
+  "fx-film-matte-07": {
+    "comp": "FxFilmMatte07",
+    "kind": "overlay"
+  },
+  "fx-film-matte-08": {
+    "comp": "FxFilmMatte08",
+    "kind": "overlay"
+  },
+  "fx-fisheye": {
+    "comp": "FxFisheye",
+    "kind": "overlay"
+  },
+  "fx-fisheye-lens": {
+    "comp": "FxFisheyeLens",
+    "kind": "overlay"
+  },
+  "fx-footage-clones-01": {
+    "comp": "FxFootageClones01",
+    "kind": "overlay"
+  },
+  "fx-footage-clones-02": {
+    "comp": "FxFootageClones02",
+    "kind": "overlay"
+  },
+  "fx-frame": {
+    "comp": "FxFrame",
+    "kind": "overlay"
+  },
+  "fx-ghosting": {
+    "comp": "FxGhosting",
+    "kind": "overlay"
+  },
+  "fx-ghosting-effect": {
+    "comp": "FxGhostingEffect",
+    "kind": "overlay"
+  },
+  "fx-glitch-film-reel": {
+    "comp": "FxGlitchFilmReel",
+    "kind": "overlay"
+  },
+  "fx-glowing-edges": {
+    "comp": "FxGlowingEdges",
+    "kind": "overlay"
+  },
+  "fx-gradient-colorize": {
+    "comp": "FxGradientColorize",
+    "kind": "overlay"
+  },
+  "fx-grayscale-film-roll": {
+    "comp": "FxGrayscaleFilmRoll",
+    "kind": "overlay"
+  },
+  "fx-halftone": {
+    "comp": "FxHalftone",
+    "kind": "overlay"
+  },
+  "fx-handheld": {
+    "comp": "FxHandheld",
+    "kind": "overlay"
+  },
+  "fx-handhelds": {
+    "comp": "FxHandhelds",
+    "kind": "overlay"
+  },
+  "fx-light-leaks": {
+    "comp": "FxLightLeaks",
+    "kind": "overlay"
+  },
+  "fx-light-stroboscope": {
+    "comp": "FxLightStroboscope",
+    "kind": "overlay"
+  },
+  "fx-luma-blur": {
+    "comp": "FxLumaBlur",
+    "kind": "overlay"
+  },
+  "fx-mono-color": {
+    "comp": "FxMonoColor",
+    "kind": "overlay"
+  },
+  "fx-movie-light": {
+    "comp": "FxMovieLight",
+    "kind": "overlay"
+  },
+  "fx-multi-split-screen": {
+    "comp": "FxMultiSplitScreen",
+    "kind": "overlay"
+  },
+  "fx-music-video": {
+    "comp": "FxMusicVideo",
+    "kind": "generator"
+  },
+  "fx-music-video-module-01": {
+    "comp": "FxMusicVideoModule01",
+    "kind": "overlay"
+  },
+  "fx-music-video-module-02": {
+    "comp": "FxMusicVideoModule02",
+    "kind": "overlay"
+  },
+  "fx-music-video-module-03": {
+    "comp": "FxMusicVideoModule03",
+    "kind": "overlay"
+  },
+  "fx-permeation": {
+    "comp": "FxPermeation",
+    "kind": "overlay"
+  },
+  "fx-photo-slideshow-01": {
+    "comp": "FxPhotoSlideshow01",
+    "kind": "overlay"
+  },
+  "fx-photo-slideshow-02": {
+    "comp": "FxPhotoSlideshow02",
+    "kind": "overlay"
+  },
+  "fx-photo-slideshow-03": {
+    "comp": "FxPhotoSlideshow03",
+    "kind": "overlay"
+  },
+  "fx-photo-slideshow-04": {
+    "comp": "FxPhotoSlideshow04",
+    "kind": "overlay"
+  },
+  "fx-pixel-sorting": {
+    "comp": "FxPixelSorting",
+    "kind": "overlay"
+  },
+  "fx-prism": {
+    "comp": "FxPrism",
+    "kind": "overlay"
+  },
+  "fx-prism-blur": {
+    "comp": "FxPrismBlur",
+    "kind": "overlay"
+  },
+  "fx-punch": {
+    "comp": "FxPunch",
+    "kind": "overlay"
+  },
+  "fx-quake-zoom": {
+    "comp": "FxQuakeZoom",
+    "kind": "overlay"
+  },
+  "fx-refraction": {
+    "comp": "FxRefraction",
+    "kind": "overlay"
+  },
+  "fx-retro-look": {
+    "comp": "FxRetroLook",
+    "kind": "overlay"
+  },
+  "fx-retro-music-video": {
+    "comp": "FxRetroMusicVideo",
+    "kind": "generator"
+  },
+  "fx-retro-music-video-module-01": {
+    "comp": "FxRetroMusicVideoModule01",
+    "kind": "overlay"
+  },
+  "fx-retro-music-video-module-02": {
+    "comp": "FxRetroMusicVideoModule02",
+    "kind": "overlay"
+  },
+  "fx-retro-music-video-module-03": {
+    "comp": "FxRetroMusicVideoModule03",
+    "kind": "overlay"
+  },
+  "fx-retro-music-video-module-04": {
+    "comp": "FxRetroMusicVideoModule04",
+    "kind": "overlay"
+  },
+  "fx-retro-music-video-module-05": {
+    "comp": "FxRetroMusicVideoModule05",
+    "kind": "overlay"
+  },
+  "fx-rolling-slides": {
+    "comp": "FxRollingSlides",
+    "kind": "overlay"
+  },
+  "fx-shake-zoom": {
+    "comp": "FxShakeZoom",
+    "kind": "overlay"
+  },
+  "fx-slideshow": {
+    "comp": "FxSlideshow",
+    "kind": "overlay"
+  },
+  "fx-soft-focus-color-look": {
+    "comp": "FxSoftFocusColorLook",
+    "kind": "overlay"
+  },
+  "fx-split-screen": {
+    "comp": "FxSplitScreen",
+    "kind": "overlay"
+  },
+  "fx-split-screen-frame": {
+    "comp": "FxSplitScreenFrame",
+    "kind": "overlay"
+  },
+  "fx-split-screen-letterbox": {
+    "comp": "FxSplitScreenLetterbox",
+    "kind": "overlay"
+  },
+  "fx-stutter-effect": {
+    "comp": "FxStutterEffect",
+    "kind": "overlay"
+  },
+  "fx-vertical-streak": {
+    "comp": "FxVerticalStreak",
+    "kind": "overlay"
+  },
+  "fx-viewfinder": {
+    "comp": "FxViewfinder",
+    "kind": "overlay"
+  },
+  "fx-vintage-01": {
+    "comp": "FxVintage01",
+    "kind": "overlay"
+  },
+  "fx-vintage-02": {
+    "comp": "FxVintage02",
+    "kind": "overlay"
+  },
+  "fx-vintage-03": {
+    "comp": "FxVintage03",
+    "kind": "overlay"
+  },
+  "fx-vintage-04": {
+    "comp": "FxVintage04",
+    "kind": "overlay"
+  },
+  "fx-vintage-05": {
+    "comp": "FxVintage05",
+    "kind": "overlay"
+  },
+  "fx-vintage-06": {
+    "comp": "FxVintage06",
+    "kind": "overlay"
+  },
+  "fx-vintage-07": {
+    "comp": "FxVintage07",
+    "kind": "overlay"
+  },
+  "fx-vintage-08": {
+    "comp": "FxVintage08",
+    "kind": "overlay"
+  },
+  "fx-vintage-09": {
+    "comp": "FxVintage09",
+    "kind": "overlay"
+  },
+  "fx-vintage-10": {
+    "comp": "FxVintage10",
+    "kind": "overlay"
+  },
+  "fx-vintage-11": {
+    "comp": "FxVintage11",
+    "kind": "overlay"
+  },
+  "fx-vision-emulations": {
+    "comp": "FxVisionEmulations",
+    "kind": "overlay"
+  },
+  "fx-walking-zoom-in": {
+    "comp": "FxWalkingZoomIn",
+    "kind": "overlay"
+  },
+  "sub-clean-callout-01": {
+    "comp": "SubCleanCallout01",
+    "kind": "title"
+  },
+  "sub-clean-callout-02": {
+    "comp": "SubCleanCallout02",
+    "kind": "title"
+  },
+  "sub-credits-01": {
+    "comp": "SubCredits01",
+    "kind": "title"
+  },
+  "sub-credits-02": {
+    "comp": "SubCredits02",
+    "kind": "title"
+  },
+  "sub-description-01": {
+    "comp": "SubDescription01",
+    "kind": "title"
+  },
+  "sub-description-02": {
+    "comp": "SubDescription02",
+    "kind": "title"
+  },
+  "sub-description-03": {
+    "comp": "SubDescription03",
+    "kind": "title"
+  },
+  "sub-description-04": {
+    "comp": "SubDescription04",
+    "kind": "title"
+  },
+  "sub-details": {
+    "comp": "SubDetails",
+    "kind": "title"
+  },
+  "sub-music-video-lower3rd": {
+    "comp": "SubMusicVideoLower3rd",
+    "kind": "title"
+  },
+  "sub-retro-music-video-lower3rd": {
+    "comp": "SubRetroMusicVideoLower3rd",
+    "kind": "title"
+  },
+  "sub-subtitle-01": {
+    "comp": "SubSubtitle01",
+    "kind": "title"
+  },
+  "sub-subtitle-02": {
+    "comp": "SubSubtitle02",
+    "kind": "title"
+  },
+  "sub-subtitle-03": {
+    "comp": "SubSubtitle03",
+    "kind": "title"
+  },
+  "sub-subtitle-04": {
+    "comp": "SubSubtitle04",
+    "kind": "title"
+  },
+  "sub-subtitle-05": {
+    "comp": "SubSubtitle05",
+    "kind": "title"
+  },
+  "sub-subtitle-06": {
+    "comp": "SubSubtitle06",
+    "kind": "title"
+  },
+  "sub-subtitle-07": {
+    "comp": "SubSubtitle07",
+    "kind": "title"
+  },
+  "sub-subtitle-08": {
+    "comp": "SubSubtitle08",
+    "kind": "title"
+  },
+  "sub-subtitle-09": {
+    "comp": "SubSubtitle09",
+    "kind": "title"
+  },
+  "sub-subtitle-10": {
+    "comp": "SubSubtitle10",
+    "kind": "title"
+  },
+  "sub-subtitle-11": {
+    "comp": "SubSubtitle11",
+    "kind": "title"
+  },
+  "sub-subtitle-12": {
+    "comp": "SubSubtitle12",
+    "kind": "title"
+  },
+  "sub-subtitle-13": {
+    "comp": "SubSubtitle13",
+    "kind": "title"
+  },
+  "sub-subtitle-14": {
+    "comp": "SubSubtitle14",
+    "kind": "title"
+  },
+  "sub-subtitle-15": {
+    "comp": "SubSubtitle15",
+    "kind": "title"
+  },
+  "sub-subtitle-16": {
+    "comp": "SubSubtitle16",
+    "kind": "title"
+  },
+  "sub-subtitle-17": {
+    "comp": "SubSubtitle17",
+    "kind": "title"
+  },
+  "sub-subtitle-18": {
+    "comp": "SubSubtitle18",
+    "kind": "title"
+  },
+  "sub-subtitle-19": {
+    "comp": "SubSubtitle19",
+    "kind": "title"
+  },
+  "sub-subtitle-20": {
+    "comp": "SubSubtitle20",
+    "kind": "title"
+  },
+  "sub-subtitle-21": {
+    "comp": "SubSubtitle21",
+    "kind": "title"
+  },
+  "sub-subtitle-22": {
+    "comp": "SubSubtitle22",
+    "kind": "title"
+  },
+  "sub-subtitle-23": {
+    "comp": "SubSubtitle23",
+    "kind": "title"
+  },
+  "sub-subtitle-24": {
+    "comp": "SubSubtitle24",
+    "kind": "title"
+  },
+  "sub-subtitle-25": {
+    "comp": "SubSubtitle25",
+    "kind": "title"
+  },
+  "sub-subtitle-26": {
+    "comp": "SubSubtitle26",
+    "kind": "title"
+  },
+  "sub-subtitle-27": {
+    "comp": "SubSubtitle27",
+    "kind": "title"
+  },
+  "sub-subtitle-28": {
+    "comp": "SubSubtitle28",
+    "kind": "title"
+  },
+  "sub-subtitle-29": {
+    "comp": "SubSubtitle29",
+    "kind": "title"
+  },
+  "sub-subtitle-30": {
+    "comp": "SubSubtitle30",
+    "kind": "title"
+  },
+  "sub-subtitle-31": {
+    "comp": "SubSubtitle31",
+    "kind": "title"
+  },
+  "sub-subtitle-32": {
+    "comp": "SubSubtitle32",
+    "kind": "title"
+  },
+  "sub-subtitle-33": {
+    "comp": "SubSubtitle33",
+    "kind": "title"
+  },
+  "sub-subtitle-34": {
+    "comp": "SubSubtitle34",
+    "kind": "title"
+  },
+  "sub-subtitle-35": {
+    "comp": "SubSubtitle35",
+    "kind": "title"
+  },
+  "sub-subtitle-36": {
+    "comp": "SubSubtitle36",
+    "kind": "title"
+  },
+  "sub-subtitle-37": {
+    "comp": "SubSubtitle37",
+    "kind": "title"
+  },
+  "sub-subtitle-38": {
+    "comp": "SubSubtitle38",
+    "kind": "title"
+  },
+  "sub-subtitle-39": {
+    "comp": "SubSubtitle39",
+    "kind": "title"
+  },
+  "sub-subtitle-40": {
+    "comp": "SubSubtitle40",
+    "kind": "title"
+  },
+  "sub-subtitle-41": {
+    "comp": "SubSubtitle41",
+    "kind": "title"
+  },
+  "sub-subtitle-42": {
+    "comp": "SubSubtitle42",
+    "kind": "title"
+  },
+  "sub-subtitle-43": {
+    "comp": "SubSubtitle43",
+    "kind": "title"
+  },
+  "sub-subtitle-44": {
+    "comp": "SubSubtitle44",
+    "kind": "title"
+  },
+  "sub-subtitle-45": {
+    "comp": "SubSubtitle45",
+    "kind": "title"
+  },
+  "sub-subtitle-46": {
+    "comp": "SubSubtitle46",
+    "kind": "title"
+  },
+  "sub-subtitle-47": {
+    "comp": "SubSubtitle47",
+    "kind": "title"
+  },
+  "sub-subtitle-48": {
+    "comp": "SubSubtitle48",
+    "kind": "title"
+  },
+  "title-artistic-01": {
+    "comp": "TitleArtistic01",
+    "kind": "title"
+  },
+  "title-artistic-02": {
+    "comp": "TitleArtistic02",
+    "kind": "title"
+  },
+  "title-artistic-03": {
+    "comp": "TitleArtistic03",
+    "kind": "title"
+  },
+  "title-artistic-04": {
+    "comp": "TitleArtistic04",
+    "kind": "title"
+  },
+  "title-artistic-05": {
+    "comp": "TitleArtistic05",
+    "kind": "title"
+  },
+  "title-artistic-06": {
+    "comp": "TitleArtistic06",
+    "kind": "title"
+  },
+  "title-artistic-07": {
+    "comp": "TitleArtistic07",
+    "kind": "title"
+  },
+  "title-basic-movements": {
+    "comp": "TitleBasicMovements",
+    "kind": "title"
+  },
+  "title-cinematic-title-01": {
+    "comp": "TitleCinematicTitle01",
+    "kind": "title"
+  },
+  "title-cinematic-title-02": {
+    "comp": "TitleCinematicTitle02",
+    "kind": "title"
+  },
+  "title-cinematic-title-03": {
+    "comp": "TitleCinematicTitle03",
+    "kind": "title"
+  },
+  "title-cinematic-title-04": {
+    "comp": "TitleCinematicTitle04",
+    "kind": "title"
+  },
+  "title-cinematic-title-05": {
+    "comp": "TitleCinematicTitle05",
+    "kind": "title"
+  },
+  "title-cinematic-title-06": {
+    "comp": "TitleCinematicTitle06",
+    "kind": "title"
+  },
+  "title-cinematic-title-07": {
+    "comp": "TitleCinematicTitle07",
+    "kind": "title"
+  },
+  "title-cinematic-title-08": {
+    "comp": "TitleCinematicTitle08",
+    "kind": "title"
+  },
+  "title-cinematic-title-09": {
+    "comp": "TitleCinematicTitle09",
+    "kind": "title"
+  },
+  "title-cinematic-title-10": {
+    "comp": "TitleCinematicTitle10",
+    "kind": "title"
+  },
+  "title-cinematic-title-11": {
+    "comp": "TitleCinematicTitle11",
+    "kind": "title"
+  },
+  "title-cinematic-title-12": {
+    "comp": "TitleCinematicTitle12",
+    "kind": "title"
+  },
+  "title-cinematic-title-13": {
+    "comp": "TitleCinematicTitle13",
+    "kind": "title"
+  },
+  "title-cinematic-title-14": {
+    "comp": "TitleCinematicTitle14",
+    "kind": "title"
+  },
+  "title-cinematic-title-15": {
+    "comp": "TitleCinematicTitle15",
+    "kind": "title"
+  },
+  "title-cinematic-title-16": {
+    "comp": "TitleCinematicTitle16",
+    "kind": "title"
+  },
+  "title-cinematic-title-17": {
+    "comp": "TitleCinematicTitle17",
+    "kind": "title"
+  },
+  "title-cinematic-title-18": {
+    "comp": "TitleCinematicTitle18",
+    "kind": "title"
+  },
+  "title-cinematic-title-19": {
+    "comp": "TitleCinematicTitle19",
+    "kind": "title"
+  },
+  "title-cinematic-title-20": {
+    "comp": "TitleCinematicTitle20",
+    "kind": "title"
+  },
+  "title-cinematic-title-21": {
+    "comp": "TitleCinematicTitle21",
+    "kind": "title"
+  },
+  "title-cinematic-title-22": {
+    "comp": "TitleCinematicTitle22",
+    "kind": "title"
+  },
+  "title-dynamic": {
+    "comp": "TitleDynamic",
+    "kind": "title"
+  },
+  "title-effect-01": {
+    "comp": "TitleEffect01",
+    "kind": "title"
+  },
+  "title-effect-02": {
+    "comp": "TitleEffect02",
+    "kind": "title"
+  },
+  "title-effect-03": {
+    "comp": "TitleEffect03",
+    "kind": "title"
+  },
+  "title-effect-04": {
+    "comp": "TitleEffect04",
+    "kind": "title"
+  },
+  "title-effect-05": {
+    "comp": "TitleEffect05",
+    "kind": "title"
+  },
+  "title-effect-06": {
+    "comp": "TitleEffect06",
+    "kind": "title"
+  },
+  "title-grain": {
+    "comp": "TitleGrain",
+    "kind": "title"
+  },
+  "title-kinetic-title-01": {
+    "comp": "TitleKineticTitle01",
+    "kind": "title"
+  },
+  "title-kinetic-title-02": {
+    "comp": "TitleKineticTitle02",
+    "kind": "title"
+  },
+  "title-kinetic-title-03": {
+    "comp": "TitleKineticTitle03",
+    "kind": "title"
+  },
+  "title-kinetic-title-04": {
+    "comp": "TitleKineticTitle04",
+    "kind": "title"
+  },
+  "title-kinetic-title-05": {
+    "comp": "TitleKineticTitle05",
+    "kind": "title"
+  },
+  "title-kinetic-title-06": {
+    "comp": "TitleKineticTitle06",
+    "kind": "title"
+  },
+  "title-kinetic-title-07": {
+    "comp": "TitleKineticTitle07",
+    "kind": "title"
+  },
+  "title-kinetic-title-08": {
+    "comp": "TitleKineticTitle08",
+    "kind": "title"
+  },
+  "title-kinetic-title-09": {
+    "comp": "TitleKineticTitle09",
+    "kind": "title"
+  },
+  "title-kinetic-title-10": {
+    "comp": "TitleKineticTitle10",
+    "kind": "title"
+  },
+  "title-kinetic-title-11": {
+    "comp": "TitleKineticTitle11",
+    "kind": "title"
+  },
+  "title-kinetic-title-12": {
+    "comp": "TitleKineticTitle12",
+    "kind": "title"
+  },
+  "title-kinetic-title-13": {
+    "comp": "TitleKineticTitle13",
+    "kind": "title"
+  },
+  "title-kinetic-title-14": {
+    "comp": "TitleKineticTitle14",
+    "kind": "title"
+  },
+  "title-kinetic-title-15": {
+    "comp": "TitleKineticTitle15",
+    "kind": "title"
+  },
+  "title-kinetic-title-16": {
+    "comp": "TitleKineticTitle16",
+    "kind": "title"
+  },
+  "title-kinetic-title-17": {
+    "comp": "TitleKineticTitle17",
+    "kind": "title"
+  },
+  "title-kinetic-title-18": {
+    "comp": "TitleKineticTitle18",
+    "kind": "title"
+  },
+  "title-kinetic-title-19": {
+    "comp": "TitleKineticTitle19",
+    "kind": "title"
+  },
+  "title-kinetic-title-20": {
+    "comp": "TitleKineticTitle20",
+    "kind": "title"
+  },
+  "title-kinetic-title-21": {
+    "comp": "TitleKineticTitle21",
+    "kind": "title"
+  },
+  "title-kinetic-title-22": {
+    "comp": "TitleKineticTitle22",
+    "kind": "title"
+  },
+  "title-kinetic-title-23": {
+    "comp": "TitleKineticTitle23",
+    "kind": "title"
+  },
+  "title-kinetic-title-24": {
+    "comp": "TitleKineticTitle24",
+    "kind": "title"
+  },
+  "title-kinetic-title-25": {
+    "comp": "TitleKineticTitle25",
+    "kind": "title"
+  },
+  "title-kinetic-title-26": {
+    "comp": "TitleKineticTitle26",
+    "kind": "title"
+  },
+  "title-kinetic-title-27": {
+    "comp": "TitleKineticTitle27",
+    "kind": "title"
+  },
+  "title-kinetic-title-28": {
+    "comp": "TitleKineticTitle28",
+    "kind": "title"
+  },
+  "title-kinetic-title-29": {
+    "comp": "TitleKineticTitle29",
+    "kind": "title"
+  },
+  "title-kinetic-title-30": {
+    "comp": "TitleKineticTitle30",
+    "kind": "title"
+  },
+  "title-music-video-title": {
+    "comp": "TitleMusicVideoTitle",
+    "kind": "title"
+  },
+  "title-retro-music-video-title": {
+    "comp": "TitleRetroMusicVideoTitle",
+    "kind": "title"
+  },
+  "title-signal-glitch-01": {
+    "comp": "TitleSignalGlitch01",
+    "kind": "title"
+  },
+  "title-signal-glitch-02": {
+    "comp": "TitleSignalGlitch02",
+    "kind": "title"
+  },
+  "title-signal-glitch-03": {
+    "comp": "TitleSignalGlitch03",
+    "kind": "title"
+  },
+  "title-signal-glitch-04": {
+    "comp": "TitleSignalGlitch04",
+    "kind": "title"
+  },
+  "title-signal-glitch-05": {
+    "comp": "TitleSignalGlitch05",
+    "kind": "title"
+  },
+  "title-signal-glitch-06": {
+    "comp": "TitleSignalGlitch06",
+    "kind": "title"
+  },
+  "title-signal-glitch-07": {
+    "comp": "TitleSignalGlitch07",
+    "kind": "title"
+  },
+  "title-signal-glitch-08": {
+    "comp": "TitleSignalGlitch08",
+    "kind": "title"
+  },
+  "title-signal-glitch-09": {
+    "comp": "TitleSignalGlitch09",
+    "kind": "title"
+  },
+  "title-signal-glitch-10": {
+    "comp": "TitleSignalGlitch10",
+    "kind": "title"
+  },
+  "title-signal-glitch-11": {
+    "comp": "TitleSignalGlitch11",
+    "kind": "title"
+  },
+  "title-signal-glitch-12": {
+    "comp": "TitleSignalGlitch12",
+    "kind": "title"
+  },
+  "title-signal-glitch-13": {
+    "comp": "TitleSignalGlitch13",
+    "kind": "title"
+  },
+  "title-signal-glitch-14": {
+    "comp": "TitleSignalGlitch14",
+    "kind": "title"
+  },
+  "title-signal-glitch-15": {
+    "comp": "TitleSignalGlitch15",
+    "kind": "title"
+  },
+  "title-signal-glitch-16": {
+    "comp": "TitleSignalGlitch16",
+    "kind": "title"
+  },
+  "title-signal-glitch-17": {
+    "comp": "TitleSignalGlitch17",
+    "kind": "title"
+  },
+  "title-signal-glitch-18": {
+    "comp": "TitleSignalGlitch18",
+    "kind": "title"
+  },
+  "title-signal-glitch-19": {
+    "comp": "TitleSignalGlitch19",
+    "kind": "title"
+  },
+  "title-signal-glitch-20": {
+    "comp": "TitleSignalGlitch20",
+    "kind": "title"
+  },
+  "title-signal-glitch-21": {
+    "comp": "TitleSignalGlitch21",
+    "kind": "title"
+  },
+  "title-signal-glitch-22": {
+    "comp": "TitleSignalGlitch22",
+    "kind": "title"
+  },
+  "title-signal-glitch-23": {
+    "comp": "TitleSignalGlitch23",
+    "kind": "title"
+  },
+  "title-signal-glitch-24": {
+    "comp": "TitleSignalGlitch24",
+    "kind": "title"
+  },
+  "title-signal-glitch-25": {
+    "comp": "TitleSignalGlitch25",
+    "kind": "title"
+  },
+  "title-signal-glitch-26": {
+    "comp": "TitleSignalGlitch26",
+    "kind": "title"
+  },
+  "title-tech-01": {
+    "comp": "TitleTech01",
+    "kind": "title"
+  },
+  "title-tech-02": {
+    "comp": "TitleTech02",
+    "kind": "title"
+  },
+  "title-tech-03": {
+    "comp": "TitleTech03",
+    "kind": "title"
+  },
+  "title-tech-04": {
+    "comp": "TitleTech04",
+    "kind": "title"
+  },
+  "title-tech-05": {
+    "comp": "TitleTech05",
+    "kind": "title"
+  },
+  "title-tech-06": {
+    "comp": "TitleTech06",
+    "kind": "title"
+  },
+  "title-tech-07": {
+    "comp": "TitleTech07",
+    "kind": "title"
+  },
+  "title-typography-01": {
+    "comp": "TitleTypography01",
+    "kind": "title"
+  },
+  "title-typography-02": {
+    "comp": "TitleTypography02",
+    "kind": "title"
+  },
+  "title-typography-03": {
+    "comp": "TitleTypography03",
+    "kind": "title"
+  },
+  "title-typography-04": {
+    "comp": "TitleTypography04",
+    "kind": "title"
+  },
+  "tx-aura": {
+    "comp": "TxAura",
+    "kind": "transition"
+  },
+  "tx-blur": {
+    "comp": "TxBlur",
+    "kind": "transition"
+  },
+  "tx-blur-cut": {
+    "comp": "TxBlurCut",
+    "kind": "transition"
+  },
+  "tx-bulge-down": {
+    "comp": "TxBulgeDown",
+    "kind": "transition"
+  },
+  "tx-bulge-left": {
+    "comp": "TxBulgeLeft",
+    "kind": "transition"
+  },
+  "tx-bulge-right": {
+    "comp": "TxBulgeRight",
+    "kind": "transition"
+  },
+  "tx-bulge-up": {
+    "comp": "TxBulgeUp",
+    "kind": "transition"
+  },
+  "tx-burn": {
+    "comp": "TxBurn",
+    "kind": "transition"
+  },
+  "tx-camera-shake": {
+    "comp": "TxCameraShake",
+    "kind": "transition"
+  },
+  "tx-color-blur-down": {
+    "comp": "TxColorBlurDown",
+    "kind": "transition"
+  },
+  "tx-color-blur-left": {
+    "comp": "TxColorBlurLeft",
+    "kind": "transition"
+  },
+  "tx-color-blur-right": {
+    "comp": "TxColorBlurRight",
+    "kind": "transition"
+  },
+  "tx-color-blur-up": {
+    "comp": "TxColorBlurUp",
+    "kind": "transition"
+  },
+  "tx-cross-fade": {
+    "comp": "TxCrossFade",
+    "kind": "transition"
+  },
+  "tx-custom-mask": {
+    "comp": "TxCustomMask",
+    "kind": "transition"
+  },
+  "tx-custom-shade": {
+    "comp": "TxCustomShade",
+    "kind": "transition"
+  },
+  "tx-custom-surge-backward": {
+    "comp": "TxCustomSurgeBackward",
+    "kind": "transition"
+  },
+  "tx-custom-surge-forward": {
+    "comp": "TxCustomSurgeForward",
+    "kind": "transition"
+  },
+  "tx-desaturate": {
+    "comp": "TxDesaturate",
+    "kind": "transition"
+  },
+  "tx-dissolve": {
+    "comp": "TxDissolve",
+    "kind": "transition"
+  },
+  "tx-distort-horizontally": {
+    "comp": "TxDistortHorizontally",
+    "kind": "transition"
+  },
+  "tx-distort-vertically": {
+    "comp": "TxDistortVertically",
+    "kind": "transition"
+  },
+  "tx-double-exposure": {
+    "comp": "TxDoubleExposure",
+    "kind": "transition"
+  },
+  "tx-double-whip-pan": {
+    "comp": "TxDoubleWhipPan",
+    "kind": "transition"
+  },
+  "tx-drift-down": {
+    "comp": "TxDriftDown",
+    "kind": "transition"
+  },
+  "tx-drift-left": {
+    "comp": "TxDriftLeft",
+    "kind": "transition"
+  },
+  "tx-drift-right": {
+    "comp": "TxDriftRight",
+    "kind": "transition"
+  },
+  "tx-drift-up": {
+    "comp": "TxDriftUp",
+    "kind": "transition"
+  },
+  "tx-echo": {
+    "comp": "TxEcho",
+    "kind": "transition"
+  },
+  "tx-echo-flash": {
+    "comp": "TxEchoFlash",
+    "kind": "transition"
+  },
+  "tx-expire": {
+    "comp": "TxExpire",
+    "kind": "transition"
+  },
+  "tx-fade": {
+    "comp": "TxFade",
+    "kind": "transition"
+  },
+  "tx-fast-forward": {
+    "comp": "TxFastForward",
+    "kind": "transition"
+  },
+  "tx-film-burn": {
+    "comp": "TxFilmBurn",
+    "kind": "transition"
+  },
+  "tx-film-burn-down": {
+    "comp": "TxFilmBurnDown",
+    "kind": "transition"
+  },
+  "tx-film-burn-left": {
+    "comp": "TxFilmBurnLeft",
+    "kind": "transition"
+  },
+  "tx-film-burn-right": {
+    "comp": "TxFilmBurnRight",
+    "kind": "transition"
+  },
+  "tx-film-burn-up": {
+    "comp": "TxFilmBurnUp",
+    "kind": "transition"
+  },
+  "tx-film-change": {
+    "comp": "TxFilmChange",
+    "kind": "transition"
+  },
+  "tx-film-marks": {
+    "comp": "TxFilmMarks",
+    "kind": "transition"
+  },
+  "tx-film-melt": {
+    "comp": "TxFilmMelt",
+    "kind": "transition"
+  },
+  "tx-film-scribble-down": {
+    "comp": "TxFilmScribbleDown",
+    "kind": "transition"
+  },
+  "tx-film-scribble-left": {
+    "comp": "TxFilmScribbleLeft",
+    "kind": "transition"
+  },
+  "tx-film-scribble-right": {
+    "comp": "TxFilmScribbleRight",
+    "kind": "transition"
+  },
+  "tx-film-scribble-up": {
+    "comp": "TxFilmScribbleUp",
+    "kind": "transition"
+  },
+  "tx-film-slide": {
+    "comp": "TxFilmSlide",
+    "kind": "transition"
+  },
+  "tx-film-stain": {
+    "comp": "TxFilmStain",
+    "kind": "transition"
+  },
+  "tx-flash": {
+    "comp": "TxFlash",
+    "kind": "transition"
+  },
+  "tx-flash-down": {
+    "comp": "TxFlashDown",
+    "kind": "transition"
+  },
+  "tx-flash-left": {
+    "comp": "TxFlashLeft",
+    "kind": "transition"
+  },
+  "tx-flash-right": {
+    "comp": "TxFlashRight",
+    "kind": "transition"
+  },
+  "tx-flash-slide": {
+    "comp": "TxFlashSlide",
+    "kind": "transition"
+  },
+  "tx-flash-up": {
+    "comp": "TxFlashUp",
+    "kind": "transition"
+  },
+  "tx-flash-zoom": {
+    "comp": "TxFlashZoom",
+    "kind": "transition"
+  },
+  "tx-flicker": {
+    "comp": "TxFlicker",
+    "kind": "transition"
+  },
+  "tx-flicker-flare": {
+    "comp": "TxFlickerFlare",
+    "kind": "transition"
+  },
+  "tx-footage-roll": {
+    "comp": "TxFootageRoll",
+    "kind": "transition"
+  },
+  "tx-frame-drop": {
+    "comp": "TxFrameDrop",
+    "kind": "transition"
+  },
+  "tx-glass-distortion": {
+    "comp": "TxGlassDistortion",
+    "kind": "transition"
+  },
+  "tx-gyre": {
+    "comp": "TxGyre",
+    "kind": "transition"
+  },
+  "tx-ignite": {
+    "comp": "TxIgnite",
+    "kind": "transition"
+  },
+  "tx-illuminate": {
+    "comp": "TxIlluminate",
+    "kind": "transition"
+  },
+  "tx-jitter": {
+    "comp": "TxJitter",
+    "kind": "transition"
+  },
+  "tx-light-leak": {
+    "comp": "TxLightLeak",
+    "kind": "transition"
+  },
+  "tx-light-speed": {
+    "comp": "TxLightSpeed",
+    "kind": "transition"
+  },
+  "tx-light-whip": {
+    "comp": "TxLightWhip",
+    "kind": "transition"
+  },
+  "tx-luma-blink": {
+    "comp": "TxLumaBlink",
+    "kind": "transition"
+  },
+  "tx-melt-down": {
+    "comp": "TxMeltDown",
+    "kind": "transition"
+  },
+  "tx-melt-left": {
+    "comp": "TxMeltLeft",
+    "kind": "transition"
+  },
+  "tx-melt-right": {
+    "comp": "TxMeltRight",
+    "kind": "transition"
+  },
+  "tx-melt-up": {
+    "comp": "TxMeltUp",
+    "kind": "transition"
+  },
+  "tx-music-video-transition": {
+    "comp": "TxMusicVideoTransition",
+    "kind": "transition"
+  },
+  "tx-negative-flash": {
+    "comp": "TxNegativeFlash",
+    "kind": "transition"
+  },
+  "tx-negative-flashes": {
+    "comp": "TxNegativeFlashes",
+    "kind": "transition"
+  },
+  "tx-noise": {
+    "comp": "TxNoise",
+    "kind": "transition"
+  },
+  "tx-noise-dissolve": {
+    "comp": "TxNoiseDissolve",
+    "kind": "transition"
+  },
+  "tx-overdrive": {
+    "comp": "TxOverdrive",
+    "kind": "transition"
+  },
+  "tx-overexpose-down": {
+    "comp": "TxOverexposeDown",
+    "kind": "transition"
+  },
+  "tx-overexpose-left": {
+    "comp": "TxOverexposeLeft",
+    "kind": "transition"
+  },
+  "tx-overexpose-right": {
+    "comp": "TxOverexposeRight",
+    "kind": "transition"
+  },
+  "tx-overexpose-up": {
+    "comp": "TxOverexposeUp",
+    "kind": "transition"
+  },
+  "tx-overexposure-01": {
+    "comp": "TxOverexposure01",
+    "kind": "transition"
+  },
+  "tx-overexposure-02": {
+    "comp": "TxOverexposure02",
+    "kind": "transition"
+  },
+  "tx-parallax-down": {
+    "comp": "TxParallaxDown",
+    "kind": "transition"
+  },
+  "tx-parallax-left": {
+    "comp": "TxParallaxLeft",
+    "kind": "transition"
+  },
+  "tx-parallax-right": {
+    "comp": "TxParallaxRight",
+    "kind": "transition"
+  },
+  "tx-parallax-up": {
+    "comp": "TxParallaxUp",
+    "kind": "transition"
+  },
+  "tx-pixellate": {
+    "comp": "TxPixellate",
+    "kind": "transition"
+  },
+  "tx-play-glitch": {
+    "comp": "TxPlayGlitch",
+    "kind": "transition"
+  },
+  "tx-quake": {
+    "comp": "TxQuake",
+    "kind": "transition"
+  },
+  "tx-revolve-left": {
+    "comp": "TxRevolveLeft",
+    "kind": "transition"
+  },
+  "tx-revolve-right": {
+    "comp": "TxRevolveRight",
+    "kind": "transition"
+  },
+  "tx-ripple": {
+    "comp": "TxRipple",
+    "kind": "transition"
+  },
+  "tx-roll-down": {
+    "comp": "TxRollDown",
+    "kind": "transition"
+  },
+  "tx-roll-left": {
+    "comp": "TxRollLeft",
+    "kind": "transition"
+  },
+  "tx-roll-right": {
+    "comp": "TxRollRight",
+    "kind": "transition"
+  },
+  "tx-roll-up": {
+    "comp": "TxRollUp",
+    "kind": "transition"
+  },
+  "tx-scrape-01": {
+    "comp": "TxScrape01",
+    "kind": "transition"
+  },
+  "tx-scrape-02": {
+    "comp": "TxScrape02",
+    "kind": "transition"
+  },
+  "tx-shade": {
+    "comp": "TxShade",
+    "kind": "transition"
+  },
+  "tx-shade-down": {
+    "comp": "TxShadeDown",
+    "kind": "transition"
+  },
+  "tx-shade-left": {
+    "comp": "TxShadeLeft",
+    "kind": "transition"
+  },
+  "tx-shade-right": {
+    "comp": "TxShadeRight",
+    "kind": "transition"
+  },
+  "tx-shade-up": {
+    "comp": "TxShadeUp",
+    "kind": "transition"
+  },
+  "tx-shadow-whip": {
+    "comp": "TxShadowWhip",
+    "kind": "transition"
+  },
+  "tx-shift-down": {
+    "comp": "TxShiftDown",
+    "kind": "transition"
+  },
+  "tx-shift-left": {
+    "comp": "TxShiftLeft",
+    "kind": "transition"
+  },
+  "tx-shift-right": {
+    "comp": "TxShiftRight",
+    "kind": "transition"
+  },
+  "tx-shift-up": {
+    "comp": "TxShiftUp",
+    "kind": "transition"
+  },
+  "tx-smear": {
+    "comp": "TxSmear",
+    "kind": "transition"
+  },
+  "tx-speed-flash": {
+    "comp": "TxSpeedFlash",
+    "kind": "transition"
+  },
+  "tx-spin": {
+    "comp": "TxSpin",
+    "kind": "transition"
+  },
+  "tx-static": {
+    "comp": "TxStatic",
+    "kind": "transition"
+  },
+  "tx-still-frame": {
+    "comp": "TxStillFrame",
+    "kind": "transition"
+  },
+  "tx-stretch": {
+    "comp": "TxStretch",
+    "kind": "transition"
+  },
+  "tx-strike": {
+    "comp": "TxStrike",
+    "kind": "transition"
+  },
+  "tx-swoosh": {
+    "comp": "TxSwoosh",
+    "kind": "transition"
+  },
+  "tx-tape-glitch": {
+    "comp": "TxTapeGlitch",
+    "kind": "transition"
+  },
+  "tx-tug": {
+    "comp": "TxTug",
+    "kind": "transition"
+  },
+  "tx-vacuum": {
+    "comp": "TxVacuum",
+    "kind": "transition"
+  },
+  "tx-whip-pan": {
+    "comp": "TxWhipPan",
+    "kind": "transition"
+  },
+  "tx-x-ray-down": {
+    "comp": "TxXRayDown",
+    "kind": "transition"
+  },
+  "tx-x-ray-left": {
+    "comp": "TxXRayLeft",
+    "kind": "transition"
+  },
+  "tx-x-ray-right": {
+    "comp": "TxXRayRight",
+    "kind": "transition"
+  },
+  "tx-x-ray-up": {
+    "comp": "TxXRayUp",
+    "kind": "transition"
+  },
+  "tx-zoom-01": {
+    "comp": "TxZoom01",
+    "kind": "transition"
+  },
+  "tx-zoom-02": {
+    "comp": "TxZoom02",
+    "kind": "transition"
+  },
+  "tx-zoom-03": {
+    "comp": "TxZoom03",
+    "kind": "transition"
+  },
+  "tx-zoom-fade": {
+    "comp": "TxZoomFade",
+    "kind": "transition"
+  }
+}

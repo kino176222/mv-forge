@@ -76,7 +76,7 @@ Next.js (App Router) / Remotion 4 / shadcn/ui / zustand + zundo / zod / ffmpeg /
 ## 更新情報・作者のニュースレター
 
 MV Forgeの更新情報や、AIでの創作・ツールづくりの実践は無料ニュースレターで発信しています:
-**[Kino's Newsletter（Substack）](https://kino11.substack.com/)** — 登録特典として、セットアップ解説動画つきの案内ページをお届けします。
+**[Kino's Newsletter（Substack）](https://kino434845.substack.com/)** — 登録特典として、セットアップ解説動画つきの案内ページをお届けします。
 
 ## ライセンス・サポート
 
